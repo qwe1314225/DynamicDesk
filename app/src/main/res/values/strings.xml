@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DynamicDesk</string>
+    <string name="service_description">此服务用于动态桌面。。。。</string>
 </resources>
